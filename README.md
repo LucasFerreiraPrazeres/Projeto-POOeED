@@ -1,4 +1,4 @@
-# Projeto Final - Programação e Estrutura de Dados
+# Projeto Final - Programação Orientada a Objetos e Estrutura de Dados
 
 ## Parte 1: Resolução de Tabela de endereços MAC
 A tabela MAC é usada por um switch para mapear os endereços MAC (correspondente a algum dispositivo) conectado a interfaces (portas) específicas do Switch. Essa tabela expira a cada 5 minutos e é atualizada através da leitura dos dispositivos conectados a cada interface. A Figura 1 ilustra um exemplo de tabela de endereços MAC armazenada na memória do switch. 
