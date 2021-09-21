@@ -3,6 +3,10 @@
 ## Parte 1: Resolução de Tabela de endereços MAC
 A tabela MAC é usada por um switch para mapear os endereços MAC (correspondente a algum dispositivo) conectado a interfaces (portas) específicas do Switch. Essa tabela expira a cada 5 minutos e é atualizada através da leitura dos dispositivos conectados a cada interface. A Figura 1 ilustra um exemplo de tabela de endereços MAC armazenada na memória do switch. 
 
+<div align="center">
+<img src="tabelamac.png" alt="Exemplo de tabela de endereços MAC armazenada na memória do switch">
+</div>
+
 Implemente um programa que seja capaz de descobrir a porta a qual um dispositivo está conectado a partir de um endereço MAC fornecido
 
 ## Requisitos funcionais:
